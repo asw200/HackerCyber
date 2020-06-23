@@ -1,6 +1,6 @@
 #!/usr/bin/python2
 #coding=utf-8
-#The Credit For This Code Goes To HackerCyber
+#The Credit For This Code Goes To lovehacker
 #If You Wanna Take Credits For This Code, Please Look Yourself Again...
 #Reserved2020
 
@@ -48,7 +48,7 @@ def jalan(z):
 		sys.stdout.flush()
 		time.sleep(0.07)
 
-#Dev:hacker_indo
+#Dev:love_hacker
 ##### LOGO #####
 logo = """
       \033[1;91m:  ◥◤◥◤◥◤◥◤◥◤◥◤◥◤ █▒▒▒███▒█▒█▒████  ◥◤◥◤◥◤◥◤◥◤◥◤◥◤ :
@@ -125,24 +125,24 @@ jalan("\033[1;93m ☞ ┈┈Frends Cloning k liy sirf indian id ka link usè kar
 jalan("\033[1;93m ☞ ┈┈┈┈┈┈┈┈WhatsApp Num :  +923094161457┈┈┈┈┈┈┈┈┈┈┈")
 print "\033[1;95m   ◥◤◥◤◥◤◥◤◥◤◥◤◥◤•◈•◥◤◥◤◥◤◥◤◥◤◥◤◥◤\033[1;96mLogin BlackMafia\033[1;95m◥◤◥◤◥◤◥◤◥◤◥◤◥◤•◈•◥◤◥◤◥◤◥◤◥◤◥◤◥◤"
 
-CorrectUsername = "Hacker"
-CorrectPassword = "Cyber02"
-O
+CorrectUsername = "indian"
+CorrectPassword = "lovehacker"
+
 loop = 'true'
 while (loop == 'true'):
     username = raw_input("\033[1;94m◥◤◥◤📋 \x1b[1;91mTool Username \x1b[1;91m»» \x1b[1;93m")
     if (username == CorrectUsername):
     	password = raw_input("\033[1;94m◥◤◥◤🔑\x1b[1;91mTool Password \x1b[1;91m»» \x1b[1;92m")
         if (password == CorrectPassword):
-            print "Logged in successfully as " + username #Dev:hackerindo
+            print "Logged in successfully as " + username #Dev:love_hacker
 	    time.sleep(2)
             loop = 'false'
         else:
             print "\033[1;91mWrong Password"
-            os.system('xdg-open https://m.youtube.com/channel/DickyTamvan')
+            os.system('xdg-open https://m.youtube.com/channel/UCRrRgcJjsnNm5Bi5ZenRGnw')
     else:
         print "\033[1;94mWrong Username"
-        os.system('xdg-open https://m.youtube.com/channel/DickyTamvan')
+        os.system('xdg-open https://m.youtube.com/channel/UCRrRgcJjsnNm5Bi5ZenRGnw')
 
 def login():
 	os.system('clear')
@@ -158,7 +158,7 @@ def login():
                 jalan(' \033[1;92m     Notice:☞ \033[1;97mDont go to in markets ' )
 		jalan(' \033[1;92m     Notice:☞ \033[1;97mwash your hands every 1 hour' )
                 jalan(' \033[1;92m    Warning:☞ \033[1;95mCloning k liay sirf indian link use karain' )
-		print "\033[1;95m      ◥◤◥◤◥◤◥◤◥◤◥◤•◈•\033[1;96mHackerCyber\033[1;95m•◈•◥◤◥◤◥◤◥◤◥◤◥◤"
+		print "\033[1;95m      ◥◤◥◤◥◤◥◤◥◤◥◤•◈•\033[1;96mBlackMafia\033[1;95m•◈•◥◤◥◤◥◤◥◤◥◤◥◤"
 		print('\033[1;93m◥◤◥◤◥◤◥◤◥◤◥◤◥◤LOGIN WITH FACEBOOK◥◤◥◤◥◤◥◤◥◤◥◤◥◤' )
 		print('	' )
 		id = raw_input('\033[1;96m[+] \x1b[1;92mID/Email\x1b[1;95m: \x1b[1;96m')
@@ -232,12 +232,12 @@ def menu():
 	except requests.exceptions.ConnectionError:
 		print"\x1b[1;92mThere is no internet connection"
 		keluar()
-	os.system("clear") #Dev:HackerCyber
+	os.system("clear") #Dev:love_hacker
 	print logo
 	print "  \033[1;95m«-----◥◤◥◤◥◤◥◤◥◤◥◤◥◤----\033[1;93mLogged in User Info\033[1;95m----◥◤◥◤◥◤◥◤◥◤◥◤◥◤-----»"
 	print "	   \033[1;94m Name\033[1;93m:\033[1;92m"+nama+"\033[1;97m               "
 	print "	   \033[1;97m ID\033[1;93m:\033[1;92m"+id+"\x1b[1;97m              "
-	print "\033[1;95m◥◤◥◤◥◤◥◤◥◤◥◤◥◤•◈•◥◤◥◤◥◤◥◤◥◤◥◤◥◤\033[1;96mHackerCyber\033[1;95m◥◤◥◤◥◤◥◤◥◤◥◤◥◤•◈•◥◤◥◤◥◤◥◤◥◤◥◤◥◤"
+	print "\033[1;95m◥◤◥◤◥◤◥◤◥◤◥◤◥◤•◈•◥◤◥◤◥◤◥◤◥◤◥◤◥◤\033[1;96mBlackMafia\033[1;95m◥◤◥◤◥◤◥◤◥◤◥◤◥◤•◈•◥◤◥◤◥◤◥◤◥◤◥◤◥◤"
 	print "\033[1;97m--\033[1;92m> \033[1;92m1.\x1b[1;92mStart Cloning..."
 	print "\033[1;97m--\033[1;91m> \033[1;91m0.\033[1;91mExit            "
 	pilih()
@@ -319,10 +319,10 @@ def pilih_super():
 	titik = ['.   ','..  ','... ']
 	for o in titik:
 		print("\r\033[1;91mCloning\033[1;93m"+o),;sys.stdout.flush();time.sleep(1)
-	print "\n\033[1;94m«-----\x1b[1;93m♡To Stop Process Press CTRL+Z♡\033[1;94mHackerCyber----»"
-	print "\033[1;95m◥◤◥◤◥◤◥◤◥◤◥◤◥◤•◈•◥◤◥◤◥◤◥◤◥◤◥◤◥◤\033[1;96mHackerCyber\033[1;95m◥◤◥◤◥◤◥◤◥◤◥◤◥◤•◈•◥◤◥◤◥◤◥◤◥◤◥◤◥◤"
+	print "\n\033[1;94m«-----\x1b[1;93m♡To Stop Process Press CTRL+Z♡\033[1;94m----»"
+	print "\033[1;95m◥◤◥◤◥◤◥◤◥◤◥◤◥◤•◈•◥◤◥◤◥◤◥◤◥◤◥◤◥◤\033[1;96mBlackMafia\033[1;95m◥◤◥◤◥◤◥◤◥◤◥◤◥◤•◈•◥◤◥◤◥◤◥◤◥◤◥◤◥◤"
 	jalan(' \033[1;93m .......................Cloning Start plzzz Wait....................... ')
-	print "\033[1;95m◥◤◥◤◥◤◥◤◥◤◥◤◥◤•◈•◥◤◥◤◥◤◥◤◥◤◥◤◥◤\033[1;96m\033[1;95m◥◤◥◤◥◤◥◤◥◤◥◤◥◤•◈•◥◤◥◤◥◤◥◤◥◤◥◤◥◤"
+	print "\033[1;95m◥◤◥◤◥◤◥◤◥◤◥◤◥◤•◈•◥◤◥◤◥◤◥◤◥◤◥◤◥◤\033[1;96mBlackMafia\033[1;95m◥◤◥◤◥◤◥◤◥◤◥◤◥◤•◈•◥◤◥◤◥◤◥◤◥◤◥◤◥◤"
 	
 			
 	def main(arg):
@@ -331,7 +331,7 @@ def pilih_super():
 		try:
 			os.mkdir('out')
 		except OSError:
-			pass #Dev:hacker_indo
+			pass #Dev:love_hacker
 		try:
 			a = requests.get('https://graph.facebook.com/'+user+'/?access_token='+toket)
 			b = json.loads(a.text)
@@ -441,8 +441,8 @@ def pilih_super():
 		
 	p = ThreadPool(30)
 	p.map(main, id)
-	print "\033[1;95m◥◤◥◤◥◤◥◤◥◤◥◤◥◤•◈•◥◤◥◤◥◤◥◤◥◤◥◤◥◤\033[1;96mHackerCyber\033[1;95m◥◤◥◤◥◤◥◤◥◤◥◤◥◤•◈•◥◤◥◤◥◤◥◤◥◤◥◤◥◤"
-	print "  \033[1;91m«---•◈•---Developed By Hackerindo--•◈•---»" #Dev:hackerindo
+	print "\033[1;95m◥◤◥◤◥◤◥◤◥◤◥◤◥◤•◈•◥◤◥◤◥◤◥◤◥◤◥◤◥◤\033[1;96mBlackMafia\033[1;95m◥◤◥◤◥◤◥◤◥◤◥◤◥◤•◈•◥◤◥◤◥◤◥◤◥◤◥◤◥◤"
+	print "  \033[1;91m«---•◈•---Developed By love-hacker--•◈•---»" #Dev:love_hacker
 	print '\033[1;91mProcess Has Been Completed\033[1;92m....'
 	print"\033[1;91mTotal OK/\x1b[1;93mCP \033[1;91m: \033[1;91m"+str(len(oks))+"\033[1;97m/\033[1;93m"+str(len(cekpoint))
 	print """
@@ -452,10 +452,10 @@ def pilih_super():
              ▒▒▒█▒▒▒█▒█▒█▒▒▒█▒█▒▒
              ▒▒▒███▒███▒███▒███▒▒
 ◥◤◥◤◥◤◥◤◥◤◥◤◥◤•◈•◥◤◥◤◥◤◥◤◥◤◥◤◥◤.
-: \033[1;93m.hackerindo  HackerCyber.... \033[1;93m :
+: \033[1;93m.lovehacker  BlackMafia.... \033[1;93m :
 ◥◤◥◤◥◤◥◤◥◤◥◤◥◤•◈•◥◤◥◤◥◤◥◤◥◤◥◤◥◤.' 
                 whatsapp Num
-               +6281260193172"""
+               +923094161457"""
 	
 	raw_input("\n\033[1;93m[\033[1;91mBack\033[1;93m]")
 	menu()
