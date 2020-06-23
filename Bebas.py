@@ -125,8 +125,8 @@ jalan("\033[1;93m ☞ ┈┈Frends Cloning k liy sirf indian id ka link usè kar
 jalan("\033[1;93m ☞ ┈┈┈┈┈┈┈┈WhatsApp Num :  +923094161457┈┈┈┈┈┈┈┈┈┈┈")
 print "\033[1;95m   ◥◤◥◤◥◤◥◤◥◤◥◤◥◤•◈•◥◤◥◤◥◤◥◤◥◤◥◤◥◤\033[1;96mLogin BlackMafia\033[1;95m◥◤◥◤◥◤◥◤◥◤◥◤◥◤•◈•◥◤◥◤◥◤◥◤◥◤◥◤◥◤"
 
-CorrectUsername = "indian"
-CorrectPassword = "lovehacker"
+CorrectUsername = "Cyber"
+CorrectPassword = "Hacker"
 
 loop = 'true'
 while (loop == 'true'):
